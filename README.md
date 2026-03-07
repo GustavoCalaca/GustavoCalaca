@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @GustavoCalaca
-- 👀 I’m interested in ... I am interested in working as a software developer.
-- 🌱 I’m currently learning ... JAVA, developing Git and Github for future joint developments in the work environment.
-- 💞️ I’m looking to collaborate on ...  In any job that helps me learn and grow in the developer area.
-- 📫 How to reach me ... Via email gustavocalaca.mail@gmail.com
-- ⚡ Fun fact: ... I like to fly drone in my spare time and I have a profile where I post videos of landscapes and curiosities made with a drone.
+Atualmente estou concluindo minha graduação em Análise e Desenvolvimento de Sistemas pela UNINASSAU, consolidando uma base sólida em lógica, estrutura de dados, banco de dados e arquitetura de sistemas. Ao longo da formação, venho aliando teoria e prática por meio de projetos reais e estudos contínuos.
 
+Buscando constante evolução, realizo cursos de aperfeiçoamento na Udemy, onde já concluí formações em Algoritmos e Lógica de Programação e Git e GitHub, fortalecendo minha capacidade de desenvolver soluções estruturadas e colaborar de forma eficiente em equipe.
 
+Tenho experiência prática com desenvolvimento de aplicações utilizando JavaScript, React.js, Node.js, TypeScript, SQL e PostgreSQL, participando da construção de projetos reais que envolvem desde o front-end até o back-end, integração com APIs e modelagem de banco de dados. Atualmente, estou aprofundando meus estudos em Desenvolvimento Back-end com Java, com foco na criação de aplicações modernas, escaláveis e performáticas.
+
+Meu objetivo é conquistar uma oportunidade como estagiário ou desenvolvedor júnior, onde eu possa aplicar minhas habilidades técnicas, contribuir com soluções inovadoras e continuar evoluindo profissionalmente através de desafios reais e aprendizado contínuo.
