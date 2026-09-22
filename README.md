@@ -1,7 +1,8 @@
-Atualmente estou concluindo minha graduação em Análise e Desenvolvimento de Sistemas pela UNINASSAU, consolidando uma base sólida em lógica, estrutura de dados, banco de dados e arquitetura de sistemas. Ao longo da formação, venho aliando teoria e prática por meio de projetos reais e estudos contínuos.
+🎓 Graduado em Análise e Desenvolvimento de Sistemas pela UNINASSAU e atualmente atuo como Desenvolvedor Full Stack na empresa FORTIO.
 
-Buscando constante evolução, realizo cursos de aperfeiçoamento na Udemy, onde já concluí formações em Algoritmos e Lógica de Programação e Git e GitHub, fortalecendo minha capacidade de desenvolver soluções estruturadas e colaborar de forma eficiente em equipe.
+🚀 Buscando constante evolução, realizo cursos de aperfeiçoamento, já tendo concluído formações em Algoritmos e Lógica de Programação e Git e GitHub, que são a base de um desenvolvedor, fortalecendo minha capacidade de criar soluções estruturadas e colaborar de forma eficiente em equipe.
 
-Tenho experiência prática com desenvolvimento de aplicações utilizando JavaScript, React.js, Node.js, TypeScript, SQL e PostgreSQL, participando da construção de projetos reais que envolvem desde o front-end até o back-end, integração com APIs e modelagem de banco de dados. Atualmente, estou aprofundando meus estudos em Desenvolvimento Back-end com Java, com foco na criação de aplicações modernas, escaláveis e performáticas.
+💻  Tenho experiência prática no desenvolvimento de aplicações full stack utilizando JavaScript, TypeScript, React.js, Node.js e NestJS no back-end, com Firebase/Firestore e PostgreSQL/SQL para modelagem de dados. Já atuei na construção de APIs REST documentadas (Swagger), autenticação com JWT, validação de dados com Zod e class-validator, testes automatizados com Jest, e geração de documentos/relatórios com Puppeteer — sempre com foco em código limpo e arquitetura escalável.
 
-Meu objetivo é conquistar uma oportunidade como estagiário ou desenvolvedor júnior, onde eu possa aplicar minhas habilidades técnicas, contribuir com soluções inovadoras e continuar evoluindo profissionalmente através de desafios reais e aprendizado contínuo.
+🤖 Além disso, estou direcionando minha carreira para a área de Inteligência Artificial, estudando e aplicando conceitos de Machine Learning e IA Generativa em projetos práticos, com o objetivo de unir desenvolvimento full stack e soluções inteligentes que impulsionem inovação e resultados.
+
